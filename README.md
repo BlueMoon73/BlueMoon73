@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey! 👋
+ My name is Monish Saravana!
+
+### About me
+- 🧪I'm currently working on science olympiad, and science fair!
+- 📡 I’m currently learning how in the world antennas work 
+- 🤔 I’m looking for help with AP World History 🙏
+
+### Contact: 
+Discord: BlueMoon73#2853
 
 <!--
 **BlueMoon73/BlueMoon73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
