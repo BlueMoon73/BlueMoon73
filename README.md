@@ -1,5 +1,5 @@
 ### Hey! 👋
- My name is Monish Saravana!
+ My name is Monish Saravana.
 
 ### About me
 - 🧪I'm currently working on science olympiad, and science fair!
