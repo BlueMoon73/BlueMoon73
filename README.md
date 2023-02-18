@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=BlueMoon73)
 ### About me
 - 🧪I'm currently working on science olympiad, and science fair!
-- 📡 I’m currently learning how in the world antennas work 
+- 📡 I’m currently learning what a remote sensing is 
 - 🤔 I’m looking for help with AP World History 🙏
 
 ### Contact: 
