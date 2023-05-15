@@ -1,14 +1,16 @@
 ### Hey! 👋
- My name is Monish Saravana.
+ My name is Monish Saravana (He/Him).
 
 ![](https://komarev.com/ghpvc/?username=BlueMoon73)
 ### About me
 - 🧪I'm currently working on science olympiad, and science fair!
-- 📡 I’m currently learning what a remote sensing is 
-- 🤔 I’m looking for help with AP World History 🙏
+- 📡 I’m currently learning JS. 
+<!-- - 🤔 I’m looking for help with AP World History 🙏 -->
+<!-- - -->
 
 ### Contact: 
 Discord: BlueMoon73#2853
+Email: monish.sd.2008@gmail.com
 
 <!--
 **BlueMoon73/BlueMoon73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +23,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
