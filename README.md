@@ -9,7 +9,7 @@
 <!-- - -->
 
 ### Contact: 
-Discord: BlueMoon73#2853
+Discord: BlueMoon73#2853 or @quackmer
 
 Email: monish.sd.2008@gmail.com
 
