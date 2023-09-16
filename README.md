@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=BlueMoon73)
 ### About me
-- 🧪I'm currently working on FTC Robotics (https://github.com/FTCLooseScrews), and science fair!
+- 🧪I'm currently working on [FTC Robotics](https://github.com/FTCLooseScrews) , and science fair!
 - 📡 I’m currently learning JS. 
 <!-- - 🤔 I’m looking for help with AP World History 🙏 -->
 <!-- - -->
