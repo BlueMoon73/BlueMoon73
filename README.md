@@ -1,7 +1,6 @@
 ### Hey! 👋
  My name is Monish Saravana (He/Him).
 
-![](https://komarev.com/ghpvc/?username=BlueMoon73)
 ### About me
 - 🧪I'm currently working on [FTC Robotics](https://github.com/FTCLooseScrews) 
 <!-- - 🤔 I’m looking for help with AP World History 🙏 -->
