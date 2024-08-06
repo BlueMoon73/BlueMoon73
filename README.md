@@ -2,12 +2,11 @@
  My name is Monish Saravana (He/Him).
 
 ### About me
-- 🧪I'm currently working on [FTC Robotics](https://github.com/FTCLooseScrews) 
-<!-- - 🤔 I’m looking for help with AP World History 🙏 -->
+- 🧪I'm currently working on FTC Robotics, [our github](https://github.com/FTCLooseScrews) & [our website](https://ftc22012.wixsite.com/robotics)
 <!-- - -->
 
 ### Contact: 
-Discord: BlueMoon73#2853 or @quackmer
+Discord: @quackmer
 
 
 <!--
