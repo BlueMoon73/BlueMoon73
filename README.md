@@ -1,5 +1,5 @@
 ### Hey! 👋
- My name is Monish Saravana (He/Him).
+ My name is Monish Saravana 
 
 ### About me
 - 🧪I'm currently working on FTC Robotics, here's [our github](https://github.com/FTCLooseScrews) & [our website](https://ftc22012.wixsite.com/robotics)
