@@ -6,9 +6,9 @@
 <!-- - -->
 
 ### Contact: 
-website: [monishsaravana.com](https://monishsaravana.com/)
-email: monish.sd.2008@gmail.com
-discord: @quackmer
+- website: [monishsaravana.com](https://monishsaravana.com/)
+- email: monish.sd.2008@gmail.com
+- discord: @quackmer
 
 
 <!--
