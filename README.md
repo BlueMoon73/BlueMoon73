@@ -26,8 +26,8 @@
 
 ### 🧰 tech i use
 
-`python` • `java` • `arduino (c/c++)` • `opencv` • `tensorflow` • `cad`  
-`robotics` • `aws` • `swift` • `figma` • `adobe ps/ae` • `git/github`
+`python` • `java` • `arduino (c/c++)` • `opencv` • `tensorflow`
+`robotics` • `aws` • `swift` • `figma` • `github` • `cad`  
 
 ---
 
