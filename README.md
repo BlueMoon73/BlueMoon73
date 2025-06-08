@@ -34,7 +34,7 @@
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueMoon73&show_icons=true&hide=contribs,prs&theme=radical&hide_rank=true" alt="monish's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueMoon73&show_icons=true&hide=contribs,prs&theme=radical&include_all_commits=true&hide_rank=true" alt="monish's github stats" />
 </p>
 
 ---
