@@ -20,7 +20,7 @@
 - founder @ [ftcelo](https://monishsaravana.com/ftcelo) • 5k+ users across 25+ countries  
 - created [portfoliobuddy](https://monishsaravana.com/portfoliobuddy) to help robotics teams present themselves better  
 - patent-pending + published: [**OCTOPAS**](https://doi.org/10.5281/zenodo.15596105) (oil spill cleanup), [**LIPTRAC**](https://monishsaravana.com/liptrac.html) (AI lipreading for accessibility)  
-- ex @ sciencefair.io (acquired) | director @ [IRO](https://www.internationalresearcholympiad.org/) (acquired)  
+- ex cmo @ sciencefair.io (acquired) | director @ [IRO](https://www.internationalresearcholympiad.org/) (acquired)  
 
 ---
 
