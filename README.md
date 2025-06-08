@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm monish 👋</h1>
 
 <p align="center">
-  student. builder. entrepreneur
+  student. builder. entrepreneur.
 </p>
 
 <p align="center">
