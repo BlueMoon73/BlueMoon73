@@ -8,7 +8,7 @@
   <a href="https://monishsaravana.com">🌐 monishsaravana.com</a> • 
   <a href="mailto:monish.sd.2008@gmail.com">📧 email</a> • 
   <a href="https://www.linkedin.com/in/monish-skds">💼 linkedin</a> • 
-  <a href="https://orcid.org/0009-0009-3349-3976">🧬 orcid</a>
+  <a href="https://orcid.org/0009-0009-3349-3976">🧬 orcid</a> • 
   <a> rising hs senior </a>
 </p>
 
