@@ -41,7 +41,6 @@
 
 ### 🌱 currently
 
-- building a minimal AI to-do app with voice, memory, reminders (launching soon 👀)  
 - working on publishing LIPTRAC + building it out as a real initiative  
 - learning swift + ios dev 
 ---
